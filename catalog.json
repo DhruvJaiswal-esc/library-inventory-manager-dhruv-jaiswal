@@ -1,0 +1,38 @@
+[
+  {
+    "title": "ONE PIECE",
+    "author": "ODA SENSIE",
+    "isbn": "431",
+    "status": "issued"
+  },
+  {
+    "title": "echoes",
+    "author": "A R KESHAV",
+    "isbn": "472",
+    "status": "available"
+  },
+  {
+    "title": "clockmaker",
+    "author": "mira soltan",
+    "isbn": "589",
+    "status": "available"
+  },
+  {
+    "title": "silent city",
+    "author": "dev malik",
+    "isbn": "203",
+    "status": "available"
+  },
+  {
+    "title": "neon rain",
+    "author": "L V arora",
+    "isbn": "764",
+    "status": "available"
+  },
+  {
+    "title": "glass horizon",
+    "author": "jania rowe",
+    "isbn": "918",
+    "status": "available"
+  }
+]
