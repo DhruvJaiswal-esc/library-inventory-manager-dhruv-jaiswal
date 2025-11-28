@@ -34,5 +34,11 @@
     "author": "jania rowe",
     "isbn": "918",
     "status": "available"
+  },
+  {
+    "title": "JJJ works",
+    "author": "James Jonah Jameson",
+    "isbn": "498",
+    "status": "available"
   }
 ]
